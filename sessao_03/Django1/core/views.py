@@ -2,8 +2,8 @@ from django.shortcuts import render
 
 def index(request):
     context = {
-        "curso": "programaçãop web com django framework",
-        "outro":  "Django Django"
+        "curso": "CURSO DE SEXO GRátis",
+        "outro":  "Essa é a porra da variavel OUTRO< CARALHO, olha ali embaixo a variavel context sendo passada"
     }
     return render(request, 'index.html', context)
 
