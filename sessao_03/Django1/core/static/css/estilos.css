@@ -1,10 +1,10 @@
 
 body{
-    background-color: rgb(89, 160, 13);
+    background: rgb(85, 64, 67);
     color: #abc;
 }
 
 a{
     text-decoration: none;
-    color: #123
+    color: rgb(255, 255, 255)
 }
